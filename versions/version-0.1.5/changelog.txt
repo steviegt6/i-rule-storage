@@ -1,19 +1,19 @@
 Changes:
-  -Added a special warning at the start of the game, showing up if you don't have DirectX 9.0c installed. It also disables all shaders if you keep playing without it.
-  -Huge optimization improvement, now the game launches, restarts and changes language almost instantly (big thanks to [#5865F2]@Tomat[/]!)
-  -Slightly increased Demon Baby's range
-  -Lil Loki now shoots faster and his horizontal shots travel faster too
-  -Changed Deserter's achievement description to make it less vague
-  -Spider Mod now only shows health bar of babies that can be attacked directly
-  -Frosty now has a smaller attack radius
-  -Sanguine Bond, Blanket and Black Bean will only work on babies that were placed/spawned directly by player
+ -Added a special warning at the start of the game, showing up if you don't have DirectX 9.0c installed. It also disables all shaders if you keep playing without it.
+ -Huge optimization improvement, now the game launches, restarts and changes language almost instantly (big thanks to [#5865F2]@Tomat[/]!)
+ -Slightly increased Demon Baby's range
+ -Lil Loki now shoots faster and his horizontal shots travel faster too
+ -Changed Deserter's achievement description to make it less vague
+ -Spider Mod now only shows health bar of babies that can be attacked directly
+ -Frosty now has a smaller attack radius
+ -Sanguine Bond, Blanket and Black Bean will only work on babies that were placed/spawned directly by player
 
 Fixes:
-  -Removed funny numbers above Mystery egg
-  -Charmed enemies are immuned to webs and Juicy Sacks now
-  -Fixed shovelling. Now the shops just stop appearing once you've seen every possible item (unless you're missing a charger, then you can buy a token for it anyway)
-  -Evil Charm's indicator won't show up for charmed enemies anymore
-  -Hallowed Ground's effect now correctly resets for all nearby babies once it was destroyed
-  -Fixed interaction between Brain Worm and Multidimensional Baby
-  -Lobbed projectiles won't damage nearby enemies on landing if they're charmed
-  -Lobbed projectiles won't chase fast-moving targets/targets on minecarts for no reason (needs to be tested)
+ -Removed funny numbers above Mystery egg
+ -Charmed enemies are immuned to webs and Juicy Sacks now
+ -Fixed shovelling. Now the shops just stop appearing once you've seen every possible item (unless you're missing a charger, then you can buy a token for it anyway)
+ -Evil Charm's indicator won't show up for charmed enemies anymore
+ -Hallowed Ground's effect now correctly resets for all nearby babies once it was destroyed
+ -Fixed interaction between Brain Worm and Multidimensional Baby
+ -Lobbed projectiles won't damage nearby enemies on landing if they're charmed
+ -Lobbed projectiles won't chase fast-moving targets/targets on minecarts for no reason (needs to be tested)

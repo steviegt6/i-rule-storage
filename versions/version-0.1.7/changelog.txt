@@ -1,28 +1,28 @@
 ​Changes:
-  -Hardheads are now completely invisible in Challenge #3
-  -Reduced prices of Little Steven, Harlequin, Rainbow and Psychic Baby
-  ​-Increased prices of Spike Baby and Parasitoid
-  ​-Deserter now deals less damage
-  ​-Abel now functions a little differently
-  -The game allows you to destroy the golden poop before finishing the level
-  ​-Snowball now has an extended radius
-  -Flip now correctly changes Wiz Baby's shoot style
-  -Loki now shoots diagonally when Flipped
-  -Frosty Mint doesn't work on charmed enemies anymore
-  -Added a limit on the number of strong enemies of different types that are on the screen at the same time
-  -Added file select screen
-  -Added a new pill type
-​  -Sperm Whale now also retires after eating one charmed enemy
-  -Slightly increased the detection radius for shooting babies so that they can see enemies even if they somehow miraculously shifted off-grid
-  -Flip, Stop Watch and D6 moved to tier 1 and replaced with three previously unused items​​​​​​​​​​
+ -Hardheads are now completely invisible in Challenge #3
+ -Reduced prices of Little Steven, Harlequin, Rainbow and Psychic Baby
+ ​-Increased prices of Spike Baby and Parasitoid
+ ​-Deserter now deals less damage
+ ​-Abel now functions a little differently
+ -The game allows you to destroy the golden poop before finishing the level
+ ​-Snowball now has an extended radius
+ -Flip now correctly changes Wiz Baby's shoot style
+ -Loki now shoots diagonally when Flipped
+ -Frosty Mint doesn't work on charmed enemies anymore
+ -Added a limit on the number of strong enemies of different types that are on the screen at the same time
+ -Added file select screen
+ -Added a new pill type
+ -Sperm Whale now also retires after eating one charmed enemy
+ -Slightly increased the detection radius for shooting babies so that they can see enemies even if they somehow miraculously shifted off-grid
+ -Flip, Stop Watch and D6 moved to tier 1 and replaced with three previously unused items​​​​​​​​​​
 
 Fixes:
-  -Fixed a bug that prevents you from buying tokens in an empty shop
-  -Enemies cannot be pushed while teleporting anymore
-  ​-Fiend Baby now correctly spawn Imps when power-pilled
-  -Smart Double Baby now autocollects both hearts
-  -You can't revive your chargers when level is already finished anymore
-  -Fixed a bug when some objects and monsters remained even when level is completed
-  -Exploding Mulliboom will stop exploding if he gets frozen or extinguished during blinking
-  -Pushed enemies will lose their target, and will stop attacking the previous baby (a Farting Baby for example)
-  -Telepathy for Dummies now works on Imps too
+ -Fixed a bug that prevents you from buying tokens in an empty shop
+ -Enemies cannot be pushed while teleporting anymore
+ -Fiend Baby now correctly spawn Imps when power-pilled
+ -Smart Double Baby now autocollects both hearts
+ -You can't revive your chargers when level is already finished anymore
+ -Fixed a bug when some objects and monsters remained even when level is completed
+ -Exploding Mulliboom will stop exploding if he gets frozen or extinguished during blinking
+ -Pushed enemies will lose their target, and will stop attacking the previous baby (a Farting Baby for example)
+ -Telepathy for Dummies now works on Imps too
