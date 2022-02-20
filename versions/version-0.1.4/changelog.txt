@@ -1,0 +1,17 @@
+Fixes:
+  ​-Fixed wrong amount of hearts appearing in HUD in hardmode
+  -Fixed Snowball being good
+  -Fixed Mongo Baby not mimicing dangersense of babies with special shooting patterns
+  -The Black Bean cannot poison charmed enemies anymore
+  -Fixed bug when powerpilled ​Parasitoid's eggs weren't splitting into flies
+  -Fixed crash when Middle Horn tries to pull destroyed tile with his chain
+  -Frosty won't attack enemies/babies outside the desk anymore
+  -Enemies won't try to attack your babies during teleportation anymore
+  -Fixed Candy Heart being weird
+  -Mega Plum won't shit on your last line in Challenge #4 anymore
+  -Freezer Baby's shots won't reset the chilled debuff from the Snow Globe/Snowball anymore
+  -Babies won't break when they reached maximal potential speed​​​​​​
+
+​Misc changes:
+  -​Babies now appear invincible inside of icebergs in Challenge #3
+  -Spider Mod now shows health and defense of your babies too

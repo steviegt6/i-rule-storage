@@ -1,0 +1,21 @@
+Changes:
+  -Lil Loki now costs 150 hearts
+  -Peeping now shoots faster
+  -The Deserter now has a slightly slower fire rate​​
+  -Hardheads now deal a bit less damage
+  -Hardies, Fatties, Stoners and Sperm Whales now have less health
+  -Plums can't be champions anymore​
+  ​-Speedy monsters are now less speedy
+  ​-Erasing all data now also erases your current saved run
+  -Babies are now preparing their attacks while there are no enemies in sight, to shoot instantly when new target appears
+  -The DirectX warning now shows only one time (also fixed the download link)​
+
+Fixes:
+  -Bob's Brain won't trigger on enemies while they're teleporting
+  ​-Fixed interaction between Psychic Baby and Mongo Baby
+  -Juicy Sack now counts as defensive baby
+  -Removed immunity to ice from babies that shouldn't have it
+  -Fixed achievement order in Russian translation
+  -Obtaining a tier 2 item now unlocks a correct description entry in "Stuff" menu
+​  -Enemies won't teleport while dragged away by Glowing Hourglass anymore
+​  -Hardy won't push your babies out of grid anymore (hopefully)

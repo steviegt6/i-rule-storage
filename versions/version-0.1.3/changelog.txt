@@ -1,0 +1,20 @@
+Changes:
+  -You can now use <Q> button to reach the shovel, and Space Bar to sped up the game
+  -Acid, Fart Babies, and especially Mystery Gifts are now blacklisted from boss battles
+  -Mega Plum now shoots less often, and gives you a bit more time at the beginning of the fight
+  -Speed Up pills and Hallowed Ground are a bit more useful (which makes Speed Down pills even worse)
+  -Plums now have less health
+  -Now all the Amber Chunks and Icebergs with enemies inside will automatically break if level is finished and there's no one around
+  -Challenge #5 gives you hearts more often now
+  -Slightly reduced firing speed of Demon baby
+
+Fixes:
+  -Frosty's and Hardhead's shots won't disappear offscreen softlocking you in the process anymore
+  -Fixed overlapping text in Achievements submenu
+  -Snowball now actually can hit enemies below it
+  -Acid Babies and Hallowed Ground won't lock your shovel, actives and pills during boss battles anymore
+  -Stone enemies and Sperm Whales are now completely immune to poison
+  -Fixed Mega Plum spamming Mom's Hands in hardmode for some reason
+  -Enemies transported back with a Glowing Hour Glass won't go off grid anymore
+  -Gurgles cannot be pushed with The Bean anymore
+  -First card now drops earlier on boss levels

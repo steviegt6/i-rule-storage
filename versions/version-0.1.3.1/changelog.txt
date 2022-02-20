@@ -1,0 +1,4 @@
+Fixes:
+  -Fixed funny sorbet crash
+  -Mystery Egg won't break if you give it a pill while it attacks anymore
+  -Fixed speed up button being stupid
