@@ -1,4 +1,4 @@
 {
     "name": "Alpha v0.1.2",
-    "desc": "Inital game release. Other updates have changelogs."
+    "desc": "{{ USE_CHANGELOG }}"
 }

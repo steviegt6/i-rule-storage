@@ -1,4 +1,4 @@
 {
     "name": "Alpha v0.1.7",
-    "desc": "Alpha release 0.1.7!"
+    "desc": "{{ USE_CHANGELOG }}"
 }
