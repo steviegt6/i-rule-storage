@@ -1,6 +1,6 @@
 Changes:
   -Added a special warning at the start of the game, showing up if you don't have DirectX 9.0c installed. It also disables all shaders if you keep playing without it.
-  -Huge optimization improvement, now the game launches, restarts and changes language almost instantly (big thanks to @Tomat !)
+  -Huge optimization improvement, now the game launches, restarts and changes language almost instantly (big thanks to [#5865F2]@Tomat[/]!)
   -Slightly increased Demon Baby's range
   -Lil Loki now shoots faster and his horizontal shots travel faster too
   -Changed Deserter's achievement description to make it less vague
