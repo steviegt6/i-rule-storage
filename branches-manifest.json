@@ -3,6 +3,9 @@
     "branches": {
         "main": {
             "name": "Stable Distributions"
+        },
+        "alpha": {
+            "name": "Unstable (Testing) Distributions"
         }
     }
 }
