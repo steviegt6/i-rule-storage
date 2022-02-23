@@ -1,0 +1,11 @@
+​Changes:​
+-Now you can use Q/E buttons to rotate shapes in Challenge #6
+-Ball of Bandages now has a cooldown for pulling the same enemy from lane to lane
+-Mom's Hand now flies back without taking your babies when you use a Glowing Hourglass
+-Now you can also see what pills you have before starting the level
+-Golden poop is now automatically destroyed when level is completed
+-Now before you pick up the trophy when level is over, you can grab/place babies, use pills, active items and such 
+-Trites are now immune to webs from Spider Baby and Juicy Sacks
+
+​Fixes:
+-Ball of Bandages won't affect bosses anymore
