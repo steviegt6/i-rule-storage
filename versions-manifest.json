@@ -1,8 +1,8 @@
 {
-    "latest": "version-example",
+    "latest": "version-localization-1",
     "versions": {
-        "version-example": {
-            "name": "Example Version"
+        "version-localization-1": {
+            "name": "Localization Test 1"
         }
     }
 }
