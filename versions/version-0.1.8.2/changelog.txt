@@ -1,0 +1,15 @@
+Changes:
+- Stoners in Challenge #5 now have less health
+- Ball of Bandages enchanted by Telepathy for Dummies will have increased range
+- Mongo Baby now interacts with Crispy Baby (so everyone can shut up about it)
+
+​Fixes:
+- The saving/loading system might be actually fixed now. If you've already had a saved run before, you'll most likely have to start it again to avoid inconsistencies
+- You can't place poops with The Poop when level is finished
+- Salvation won't one-shot bosses anymore
+- Poke Go now correctly gives you a monster card on the first level of the next loop
+- Fixed Mom's Hand not being able to steal your babies
+- Fixed Charger Replacement Token being displaced when it's the only item available in store 
+- Now when you lose, you can see different messages on the game over screen, which were replaced by a single one due to a bug
+- Evil Charm won't mark Gurgles, Sperm Whales and other enemies if they've left the board
+- Fixed Hardmode not letting you to enter the next loop
