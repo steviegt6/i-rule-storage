@@ -1,0 +1,3 @@
+﻿​Fixes:
+- Fixed Frosty chilling out
+- Fixed Trite's misbehavior
