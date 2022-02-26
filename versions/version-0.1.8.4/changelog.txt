@@ -1,0 +1,8 @@
+﻿- Added remaining ascii-characters for translating purposes
+- Mom's hand now first removes the shield from babies, and only then steals em
+- Presumably fixed performance issues
+- Fixed prices and off-centered names on active items on mobile devices
+- Fixed a misplaced health bar for bosses
+- Added a proper description for card style changing option on mobile devices
+- Cards won't be randomly replaced mid-air when picked up during boss battles
+- Fixed a bug with Ragdoll purposefully throwing safes and amber chunks at rails/off-screen making them disappear
