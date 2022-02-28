@@ -1,6 +1,9 @@
 {
-    "latest": "version-0.1.8.4",
+    "latest": "version-0.1.9",
     "versions": {
+        "version-0.1.9": {
+            "name": "Version 0.1.9"
+        },
         "version-0.1.8.4": {
             "name": "Version 0.1.8.4"
         },

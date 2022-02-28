@@ -1,0 +1,19 @@
+﻿Changes:
+- Added a new tier 1 item
+- Added a new effect for using Something's Wrong pill on Multidimensional Baby 
+- Added a new interaction between Dr. Medicine and PHD
+- Peeping now has less damage and higher price/recharge time, but instead of targeting the strongest enemy, it covers the entire screen and always targets the enemies that are closest to exit 
+- Demon Baby now also tends to target the enemies that are closest to exit 
+- Lost Soul now gives only 666 hearts when killed by Sacrificial Altar
+- Brain worm now has a bit higher shootspeed
+- Fire-themed babies now melt the nearby ice floes, but they cannot melt the already formed icebergs
+- Sperm Whale won't retreat by eating just charmed flies anymore
+- Now it takes a bit longer for pickups to disappear
+- Now enemies won't stop attacking your babies with instant use when they're invincible (like Bob's Brains) preventing some issues in skill department 
+- Added Settings menu with additional options
+- Fullscreen/Window Mode option now persist between different sessions
+
+Fixes:
+- Probably fixed a huge performance drop when there are a lot of enemies on the screen
+- Fixed Rainbow Baby not shooting fireballs even when copying Crispy Baby's shootstyle
+- Fixed a bug when babies and obstacles were sliding back on rails after being pushed by Hardy
