@@ -1,0 +1,20 @@
+﻿Changes:
+- ​Someone extraterrestrial has appeared in your basement
+- Spawn rate of difficult opponents has been reduced for the second loop (current spawn rate is now applied to further loops)
+- Now enemies are distributed evenly between the lanes, trying not to spawn on lanes obstructed by other enemies/obstacles to make the game more fair
+- Increased Abel's main damage
+- Pegasus now shoots a tiny bit faster
+- Little Steven now costs 150 hearts
+- Rainbow Baby now costs 150 hearts
+- Now when Farting Baby is killed, it poisons and pushes back enemies in 3x3 radius
+
+Fixes:
+- Fixed Imp acting weird when flipped
+- Possibly fixed a crash related to Psychic Baby's tears
+- Fixed Ball of Bandages not working properly on heavy flying enemies, such as Frosties and Sperm Whales
+- Deserter now correctly targets enemies in its range when buffed by Telepathy for Dummies
+- Fixed Demon Baby's range issues
+- Fire-themed babies now correctly melt the nearby ice floes 
+
+- The game should support Win 7 / XP / 32bit systems now
+- The funny debug numbers above Sperm Whales were removed
