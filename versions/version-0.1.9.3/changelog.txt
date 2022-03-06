@@ -1,0 +1,16 @@
+﻿Changes:
+- Farting Baby now also pushes enemies that were behind him when he's attacked
+- Enemies' speed now varying less in Challenge #1
+- Now you can also see Mr.Shy's defense with Spider Mod
+- Spider Baby's fire rate was slightly decreased
+- Baby Pluto's fire rate was slightly decreased
+- Wind-up key now also allows you to manually launch Fistuloid and Dry Baby
+- A few minor changes to animations and sound effects
+
+Fixes:
+- Fixed Demon Baby's range (again)
+- Bob's Brain now correctly takes damage from distant attacks
+- The state of your current run shown in main menu now correctly updates when changing the save file
+- Middle Horn's laser has a more consistent hit detection now
+- Explosions should be more precise now
+- Now the game sets a seed properly before generating a level, so you won't get different layouts every time you quit/load the game
