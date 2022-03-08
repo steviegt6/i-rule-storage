@@ -1,0 +1,12 @@
+﻿Changes:
+- Biters are now immune to webs when they're hiding underground
+- Pegasus now shoots a bit faster
+- Now you start with 100 hearts on Challenge #5
+- Added an Autopause option in the Settings menu
+
+Fixes:
+- Fixed enemy cards not having pink hue while in your deck
+- Cards' prices in Hardmode now visually match your current number of hearts
+- Now it actually takes one hit for insta-kill babies and explosions to get rid of Mom's Hands
+- The game cursor is no longer displayed in pause menu
+- Enemy that got past your defenses will no longer trigger chargers on adjacent lanes
