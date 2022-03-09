@@ -1,0 +1,2 @@
+﻿- Fixed a bug when a level could end before the final wave
+- Now during the huge waves, enemies appear in groups one after another, and not all at once, which should reduce lags
