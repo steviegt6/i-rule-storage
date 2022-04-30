@@ -1,0 +1,23 @@
+﻿Changes:
+- A few babies, items and new enemy type
+- Curses!
+- The game now saves your current run state, so instead of starting the level all over again you now will continue playing where you left off
+- Now you can see which loop you are on while choosing babies before starting the level
+- The Deserter was renamed the Revenant by popular demand
+- betiary :dead:
+- Defensive babies' cards now drop with a longer interval between each other on boss levels
+- Rubber Soul now has higher firerate
+- Baby Pluto now deals less damage per tear 
+- Lil C.H.A.D's cards now take longer to reload
+- Power-pilled heart-producing babies are more effective now
+- Spider Mod won't show healthbars of enemies and babies with full hp anymore
+- 10k brand new bugs!
+
+Fixes:
+- The game now correctly updates your loop record after reaching a new loop
+- The game now correctly randomizes your seed after reaching a new loop
+- Now enemies will stop going towards the exit if they were charmed by Kidney Bean
+- Salvation's barrier is now rendered on top of the rails
+- Fixed the pause button not showing up on 3rd levels of every chapter for some reason
+- Fixed pill duplication glitch
+- Fixed incorrect highlighting for cards during boss fights on the mobile version
