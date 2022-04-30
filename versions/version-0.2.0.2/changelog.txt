@@ -1,0 +1,4 @@
+﻿- Fixed a crash when you're trying to kill William with Red/Blue candles
+- The grid doesn't highlight when hovering mouse over rails or rifts
+- Fixed a crash that appears when you have Poke Go or starting Challenge #4
+- Fixed boss music being played when re-continuing at level 3
