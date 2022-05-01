@@ -1,0 +1,25 @@
+﻿
+
+Changes:
+
+- New death animation for the Sperm Whales
+
+- William's move speed has been reduced a bit
+
+- Slowing effects (such as enemy being frozen, webbed) are now a bit more effective
+
+
+
+Fixes:
+
+- Fixed a crash when Cursed Baby tries to produce a heart
+
+- Fixed softlock caused by picking a new baby and re-continuing run while screen fade is not complete
+
+- Sanguine bond's highlighting is back
+
+- Fixed baby's name being shown while having Curse of the Unknown
+
+- Fixed pills overlapping active item/shovel
+
+- Fixed that glitchy splash screen with a crying heart
