@@ -1,0 +1,11 @@
+﻿Changes:
+- Red Maw now chews a little longer
+
+Fixes:
+- Fixed softlock caused by William leaving the level in defused state
+- Fixed the infamous bug with minecarts destroying spots on 2nd stage
+- Fixed incorrect position for Abel's ghost
+- Fixed missing highlighting in Challenge #6
+- Fixed the swap button rendering below dark layer in Challenge #6
+- Fixed teleporters not saving their color upon resuming the run
+- Fixed Crystal Ball hiding all of your options
