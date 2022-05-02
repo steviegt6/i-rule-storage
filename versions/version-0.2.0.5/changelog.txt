@@ -1,0 +1,4 @@
+﻿- Fixed Mom's Hands spawning off-grid when playing with high screen resolution
+- Crystal ball now displays unknown baby's name and description
+- Fixed moving spots being suddenly destroyed
+- Incompatible game states won't be loaded anymore
