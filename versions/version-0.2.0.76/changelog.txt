@@ -1,0 +1,5 @@
+﻿- New options menu
+- Any shop item can now be found cursed
+- Bosses drop two active items by default
+- Addressed to an issue that caused curses and items transfer between different runs
+- Other bug fixes & changes
