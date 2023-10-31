@@ -1,0 +1,2 @@
+﻿- Remove pre-loop extra enemy scaling
+- Fix D6 crash when baby pool is exhausted
